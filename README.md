@@ -1,8 +1,8 @@
 #ISIS1225 - Estructura de un proyecto
 
-Estudiante 1: Lukas Calderon.
+Estudiante 1: Lukas Calderon - 201923480
 
-Estudiante 2: Daniel Santiago Rueda.
+Estudiante 2: Daniel Santiago Rueda -202112934
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
